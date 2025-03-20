@@ -135,7 +135,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ Javiel-Rang ┗━━━┓
+┏━━━┛ Sirma-Rang ┗━━━┓
          
     *Nom :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -211,7 +211,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ Javiel-Rang ┗━━━┓
+┏━━━┛ Sirma-Rang ┗━━━┓
      
   *Nom :* ${nomAuteurMessage}
 
