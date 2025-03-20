@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "Général", reaction: "💞" }, async (dest, 
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Popkid", numero: "254111385747" },
-      { nom: "᚛Javiel᚜", numero: "254112167030" },
+      { nom: "SIRMA", numero: "254727140726" },
+      { nom: "᚛DARK᚜", numero: "254107065646" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 Hi meet the developers of Javiel md whatsapp bot :\n\n";
+    let message = "👋 Hi meet the developers of sirma md whatsapp bot :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,6 +95,6 @@ zokou({ nomCom: "support", categorie: "Général" }, async (dest, zk, commandeOp
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("Join our whatsapp channel ")
-  await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26`},{quoted :ms})
 
 })
