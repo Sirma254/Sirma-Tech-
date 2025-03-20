@@ -40,13 +40,13 @@ const date = moment().format('DD/MM/YYYY');
 │   *Heure* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Developer* :  JAVIEL TECH💞
+│   *Developer* :  Sirma TECH 🦎
 ╰─────✧WA-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hi ${nomAuteurMessage} 👋
 
-*Javiel Md commands :*
+*SIRMA Md commands :*
 ◇                             ◇
 `;
 
@@ -63,9 +63,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————— ★ —————««*
-The best whatsapp bot  ${prefixe}"created by javiel"
+The best whatsapp bot  ${prefixe}"created by SIRMA"
  
- powered by javiel-md
+ powered by SIRMA-TECH
                                                 
 *»»————— ★ —————««*
 `;
