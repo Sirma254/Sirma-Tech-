@@ -2,7 +2,7 @@
   </p>
  
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Cstv44Vh/IMG-20250316-WA0007.jpg" alt="IMG-20250227-WA0037" border="20"></a><br/></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Cstv44Vh/IMG-20250316-WA0007.jpg" alt="IMG-20250227-WA0037" border="20"></a>
 </p>
 
 
