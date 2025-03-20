@@ -1,14 +1,14 @@
 {
-  "name": "⭕ JAVIEL ⭕",
-  "description": "This BOT was developed by Javiel Tech 👻.",
+  "name": "⭕ SIRMA ⭕",
+  "description": "This BOT was developed by SIRMA Tech 👻.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://i.ibb.co/9kQGvLgb/IMG-20250227-WA0037.jpg",
-  "repository": "https://github.com/Popkiddevs/POPKID-XTECH",
+  "logo": "https://i.ibb.co/Cstv44Vh/IMG-20250316-WA0007.jpg",
+  "repository": "https://github.com/Sirma254/Sirma-Tech",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -84,7 +84,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "JAVIEL-MD",
+      "value": "SIRMA-MD",
       "required": false
   
     },
@@ -111,12 +111,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "JAVIEL"
+      "value": "SIRMA"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
       "required": false,
-      "value": "254732297194"
+      "value": "254107065646"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
