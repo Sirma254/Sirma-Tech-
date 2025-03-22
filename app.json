@@ -1,6 +1,6 @@
 {
-  "name": "🧑‍💻SIGMA",
-  "description": "This BOT was developed by 𝙳𝙰𝚁𝙺/𝙱𝚄𝙶_𝚇🧑‍💻.",
+  "name": "🧑‍💻SIRMA",
+  "description": "This BOT was developed by SIRMA TECH🧑‍💻.",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://files.catbox.moe/uvkxla.jpeg",
-  "repository": "https://github.com/Jaydendev112/SIGMA-md",
+  "repository": "https://github.com/Sirma254/Sirma-Tech-",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -111,7 +111,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝙳𝙰𝚁𝙺/𝙱𝚄𝙶_𝚇"
+      "value": "sirma"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
